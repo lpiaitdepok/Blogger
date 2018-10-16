@@ -3,3 +3,4 @@ Instagram
 Twitter
 Pinterest
 Flipboard
+Google+
